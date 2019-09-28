@@ -1,0 +1,17 @@
+C:\Users\USER\Desktop\Master_Projects\CSharp\Exercises_FileHandlingTest\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\USER\Desktop\Master_Projects\CSharp\Exercises_FileHandlingTest\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\USER\Desktop\Master_Projects\CSharp\Exercises_FileHandlingTest\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\USER\Desktop\Master_Projects\CSharp\Exercises_FileHandlingTest\bin\Debug\netcoreapp2.1\Exercises_FileHandlingTest.deps.json
+C:\Users\USER\Desktop\Master_Projects\CSharp\Exercises_FileHandlingTest\bin\Debug\netcoreapp2.1\Exercises_FileHandlingTest.runtimeconfig.json
+C:\Users\USER\Desktop\Master_Projects\CSharp\Exercises_FileHandlingTest\bin\Debug\netcoreapp2.1\Exercises_FileHandlingTest.runtimeconfig.dev.json
+C:\Users\USER\Desktop\Master_Projects\CSharp\Exercises_FileHandlingTest\bin\Debug\netcoreapp2.1\Exercises_FileHandlingTest.dll
+C:\Users\USER\Desktop\Master_Projects\CSharp\Exercises_FileHandlingTest\bin\Debug\netcoreapp2.1\Exercises_FileHandlingTest.pdb
+C:\Users\USER\Desktop\Master_Projects\CSharp\Exercises_FileHandlingTest\bin\Debug\netcoreapp2.1\Exercises_FileHandling.dll
+C:\Users\USER\Desktop\Master_Projects\CSharp\Exercises_FileHandlingTest\bin\Debug\netcoreapp2.1\Exercises_FileHandling.pdb
+C:\Users\USER\Desktop\Master_Projects\CSharp\Exercises_FileHandlingTest\obj\Debug\netcoreapp2.1\Exercises_FileHandlingTest.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\Master_Projects\CSharp\Exercises_FileHandlingTest\obj\Debug\netcoreapp2.1\Exercises_FileHandlingTest.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Master_Projects\CSharp\Exercises_FileHandlingTest\obj\Debug\netcoreapp2.1\Exercises_FileHandlingTest.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Master_Projects\CSharp\Exercises_FileHandlingTest\obj\Debug\netcoreapp2.1\Exercises_FileHandlingTest.AssemblyInfo.cs
+C:\Users\USER\Desktop\Master_Projects\CSharp\Exercises_FileHandlingTest\obj\Debug\netcoreapp2.1\Exercises_FileHandlingTest.csproj.CopyComplete
+C:\Users\USER\Desktop\Master_Projects\CSharp\Exercises_FileHandlingTest\obj\Debug\netcoreapp2.1\Exercises_FileHandlingTest.dll
+C:\Users\USER\Desktop\Master_Projects\CSharp\Exercises_FileHandlingTest\obj\Debug\netcoreapp2.1\Exercises_FileHandlingTest.pdb

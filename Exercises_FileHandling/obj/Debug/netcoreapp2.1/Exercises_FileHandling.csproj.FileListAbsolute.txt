@@ -1,0 +1,11 @@
+C:\Users\USER\Desktop\Master_Projects\CSharp\Exercises_FileHandling\bin\Debug\netcoreapp2.1\Exercises_FileHandling.deps.json
+C:\Users\USER\Desktop\Master_Projects\CSharp\Exercises_FileHandling\bin\Debug\netcoreapp2.1\Exercises_FileHandling.runtimeconfig.json
+C:\Users\USER\Desktop\Master_Projects\CSharp\Exercises_FileHandling\bin\Debug\netcoreapp2.1\Exercises_FileHandling.runtimeconfig.dev.json
+C:\Users\USER\Desktop\Master_Projects\CSharp\Exercises_FileHandling\bin\Debug\netcoreapp2.1\Exercises_FileHandling.dll
+C:\Users\USER\Desktop\Master_Projects\CSharp\Exercises_FileHandling\bin\Debug\netcoreapp2.1\Exercises_FileHandling.pdb
+C:\Users\USER\Desktop\Master_Projects\CSharp\Exercises_FileHandling\obj\Debug\netcoreapp2.1\Exercises_FileHandling.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Master_Projects\CSharp\Exercises_FileHandling\obj\Debug\netcoreapp2.1\Exercises_FileHandling.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Master_Projects\CSharp\Exercises_FileHandling\obj\Debug\netcoreapp2.1\Exercises_FileHandling.AssemblyInfo.cs
+C:\Users\USER\Desktop\Master_Projects\CSharp\Exercises_FileHandling\obj\Debug\netcoreapp2.1\Exercises_FileHandling.dll
+C:\Users\USER\Desktop\Master_Projects\CSharp\Exercises_FileHandling\obj\Debug\netcoreapp2.1\Exercises_FileHandling.pdb
+C:\Users\USER\Desktop\Master_Projects\CSharp\Exercises_FileHandling\obj\Debug\netcoreapp2.1\Exercises_FileHandling.csprojAssemblyReference.cache
